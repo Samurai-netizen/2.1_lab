@@ -1,0 +1,6 @@
+@import "variables";
+@import "mixins";
+
+.btn {
+    @include button-style;
+}
