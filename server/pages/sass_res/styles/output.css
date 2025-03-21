@@ -1,10 +1,19 @@
 .btn {
   padding: 10px 15px;
   border-radius: 5px;
-  color: red;
+  color: whitesmoke;
   background-color: #3498db;
   border: none;
   cursor: pointer;
+}
+
+.text1 {
+  color: blue;
+}
+
+.text2 {
+  color: blue;
+  margin-left: 20%;
 }
 
 /*# sourceMappingURL=output.css.map */

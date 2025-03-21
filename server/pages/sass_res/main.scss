@@ -4,3 +4,12 @@
 .btn {
     @include button-style;
 }
+
+.text1 {
+    color: $ozon-color;
+}
+
+.text2 {
+    color: $ozon-color;
+    margin-left: 20%;
+}
